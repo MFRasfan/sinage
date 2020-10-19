@@ -6,7 +6,7 @@ import logo2 from './images/slide_2.jpg';
 import logo3 from './images/slide_3.jpg';
 import logo4 from './images/slide_4.jpg';
 
-const Slideshow = () => {
+const App = () => {
     return (
       <div className="slide-container">
       
@@ -31,4 +31,4 @@ const Slideshow = () => {
     )
 }
 
-export default Slideshow;
+export default App;
